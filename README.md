@@ -8,6 +8,7 @@ Temos duas classes, uma representando o tomate verde (Figura – a) e outra repr
 **Figura:** Classes de objetos para treinamento de um classificador de imagens: (a) Tomates Verdes e (b) Tomates Maduros.
 # O que eu fiz?
 Criei as pastas classe cães e a classe gatos, e abaixei 100 de cada animal pelo site pexels que tem fotos de ótima qualidade.
+
 ![dog-young-dog-puppy-59965](https://github.com/user-attachments/assets/db9e63c2-583e-47fc-9d0c-025124204f43)
 ![kitty-cat-kitten-pet-45201](https://github.com/user-attachments/assets/72d93deb-5e1f-4100-9b1b-daa497967b5c)
 
